@@ -100,7 +100,7 @@
             float: right !important;
             background-color: #ef4444 !important;
             color: #ffffff !important;
-            padding: 4px 10px !important;
+            padding: auto 10px !important;
             border-radius: 4px !important;
             font-size: 13px !important;
         }
